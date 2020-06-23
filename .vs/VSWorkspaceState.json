@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "\\sample",
+    "\\sample-aux\\app-a",
+    "\\sample-aux\\app-a\\src",
+    "\\sample-aux\\app-a\\src\\app",
+    "\\tools\\gulp"
+  ],
+  "PreviewInSolutionExplorer": false
+}
